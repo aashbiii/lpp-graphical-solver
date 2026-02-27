@@ -30,7 +30,7 @@ A fully interactive, browser-based **Linear Programming Problem (LPP) Solver** u
 ### Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/lpp-graphical-solver.git
+git clone https://github.com/aashbiii/lpp-graphical-solver.git
 
 # Open in browser
 cd lpp-graphical-solver
