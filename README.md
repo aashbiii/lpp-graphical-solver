@@ -3,10 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange.svg)
 ![HTML5](https://img.shields.io/badge/Web-HTML5%20%7C%20Canvas%20API-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Optimization](https://img.shields.io/badge/Method-Graphical%20Corner%20Point-blueviolet.svg)
 
 A comprehensive two-variable **Linear Programming Problem (LPP) Solver** implementing the **Graphical Corner Point (Vertex) Method**, available as both a standalone **Python CLI/Desktop application** and a **zero-dependency interactive HTML5 Canvas web application**.
+
+**Live demo: https://aashbiii.github.io/lpp-graphical-solver/**
 
 Accompanied by the complete 21-page academic research and project report: [`lpp_report.pdf`](lpp_report.pdf).
 
@@ -140,3 +141,4 @@ No installation or build tools required:
 **Ashbi Saju**  
 GitHub: [@aashbiii](https://github.com/aashbiii)  
 Academic Affiliation: Rajagiri College of Social Sciences (Autonomous) — MCA
+
